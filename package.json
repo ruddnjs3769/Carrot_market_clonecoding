@@ -1,1 +1,17 @@
-{}
+{
+  "name": "carrot_market_clonecoding",
+  "description": "💨[클론코딩 링크](https://ruddnjs3769.github.io/Carrot_market_clonecoding/) <br>\r 💨[원본 링크](https://www.daangn.com/)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+
+  "scripts": {
+    "dev": "parcel ./index.html",
+    "build": "parcel build ./index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+
+}
